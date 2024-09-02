@@ -1,0 +1,104 @@
+%PDF-2.0
+%¿÷¢þ
+%QDF-1.0
+
+1 0 obj
+<<
+  /Pages 2 0 R
+  /Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+  /Count 1
+  /Kids [
+    3 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+3 0 obj
+<<
+  /Contents 4 0 R
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 6 0 R
+    >>
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+4 0 obj
+<<
+  /Length 5 0 R
+>>
+stream
+BT
+  /F1 14 Tf
+  1 0 0 1 72 720 Tm
+  (Positioned at 72 720 with Tm and showed with Tj) Tj
+  50 -18 Td
+  (Down 18, right 50 relative to start of previous line with Td) Tj
+ET
+BT
+  /F1 14 Tf
+  1 0 0 1 72 660 Tm
+  [(One Two) -1000 (with space after Two using TJ)] TJ
+  0 -18 Td
+  [(One T) 80 (wo with w slid closer to T using TJ)] TJ
+  q
+  1 0 0 2 72 600 Tm
+  0 .5 0.25 rg
+  [(T) 100 (all, colored, and scoped with q/Q)] TJ
+  Q
+  [(  After scope block)<d0>(graphics state is reset)] TJ
+  1 0 0 1 72 582 Tm
+  (Tall, colored, and scoped with q/Q.) Tj
+  0 -18 Td
+  [(binary: ) <62696e617279>] TJ
+ET
+endstream
+endobj
+
+5 0 obj
+592
+endobj
+
+6 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /PdfDocEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000025 00000 n 
+0000000079 00000 n 
+0000000161 00000 n 
+0000000357 00000 n 
+0000001004 00000 n 
+0000001024 00000 n 
+trailer <<
+  /Root 1 0 R
+  /Size 7
+  /ID [<42841c13bbf709d79a200fa1691836f8><537fa2d8dbac9e7f1f517f53e389ba56>]
+>>
+startxref
+1129
+%%EOF
