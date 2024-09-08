@@ -53,7 +53,6 @@ BT
   (Down 18, right 50 relative to start of previous line with Td) Tj
 ET
 BT
-  /F1 14 Tf
   1 0 0 1 72 660 Tm
   [(One Two) -1000 (with space after Two using TJ)] TJ
   0 -18 Td
@@ -63,9 +62,10 @@ BT
   0 .5 0.25 rg
   [(T) 100 (all, colored, and scoped with q/Q)] TJ
   Q
-  [(  After scope block)<d0>(graphics state is reset)] TJ
+ET
+BT
   1 0 0 1 72 582 Tm
-  (Tall, colored, and scoped with q/Q.) Tj
+  [(T) 100 (all, colored, and scoped with q/Q.)] TJ
   0 -18 Td
   [(binary: ) <62696e617279>] TJ
 ET
@@ -73,7 +73,7 @@ endstream
 endobj
 
 5 0 obj
-592
+537
 endobj
 
 6 0 obj
@@ -92,13 +92,13 @@ xref
 0000000079 00000 n 
 0000000161 00000 n 
 0000000357 00000 n 
-0000001004 00000 n 
-0000001024 00000 n 
+0000000949 00000 n 
+0000000969 00000 n 
 trailer <<
   /Root 1 0 R
   /Size 7
   /ID [<42841c13bbf709d79a200fa1691836f8><537fa2d8dbac9e7f1f517f53e389ba56>]
 >>
 startxref
-1129
+1074
 %%EOF
